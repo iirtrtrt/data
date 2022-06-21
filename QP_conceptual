@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T12:12:45.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rIbO9zgFBlC38IovjZCJ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T12:16:01.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XM8kNaj5PFIfHxXbhbTI" version="20.0.1" type="github">
   <diagram id="wNmMbTe6jIUXtVWisUhS" name="Page-1">
-    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
         <mxCell id="HZV0w0ZfAaiEI5EGpo7u-25" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="HZV0w0ZfAaiEI5EGpo7u-24" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HZV0w0ZfAaiEI5EGpo7u-26" value="has" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="HZV0w0ZfAaiEI5EGpo7u-26" value="have" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HZV0w0ZfAaiEI5EGpo7u-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="HZV0w0ZfAaiEI5EGpo7u-26" target="HZV0w0ZfAaiEI5EGpo7u-8" edge="1">
@@ -381,6 +381,9 @@
         </mxCell>
         <mxCell id="E0pcXa2SPFt-hsv6Ism2-5" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="E0pcXa2SPFt-hsv6Ism2-4">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E0pcXa2SPFt-hsv6Ism2-6" value="can write" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
