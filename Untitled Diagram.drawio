@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T11:24:56.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_D0f01BsCJci08PugUXZ" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T11:26:20.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Zncb99T434eQr32LDz16" version="24.0.2" type="github">
   <diagram name="Page-1" id="90-9ryrmHQvxupRaH4OB">
     <mxGraphModel dx="3052" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         <mxCell id="vpsdcTZweWZ3bGFoiAUr-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Risk Management&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-309.99999999999994" y="300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vpsdcTZweWZ3bGFoiAUr-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Schedule, Monitor Management&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vpsdcTZweWZ3bGFoiAUr-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Monitoring,&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Schedule Management&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="300" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
