@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T15:21:57.969Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7l_0q7u704_F2hg4tMa6" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T15:23:44.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="vjSgHW7ba7huJbKZROk7" version="24.0.5" type="github">
   <diagram name="Page-1" id="82L-B2ZSY294zVl5sZpA">
-    <mxGraphModel dx="3052" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2710" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,7 +123,7 @@
         <mxCell id="OmLeFIbTsn0oFIIFFMY4-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Risk Management&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-309.99999999999994" y="300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OmLeFIbTsn0oFIIFFMY4-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Monitoring,&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Schedule Management&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OmLeFIbTsn0oFIIFFMY4-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Monitoring /&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px; background-color: initial;&quot;&gt;Schedule Management&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-520" y="300" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Boxv59BXDJHPMvT0WCM8-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Data Management&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
