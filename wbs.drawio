@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T11:06:34.239Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="n5b5vo5OekUuxkooI89F" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T11:12:21.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="yAKTGlMujhW2m7ZSjDlk" version="24.0.7" type="github">
   <diagram name="Page-1" id="NbFLTccC4KMndDqe9O7V">
     <mxGraphModel dx="1224" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,14 +72,8 @@
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-8" value="Closeout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MgfGYnm2IxD8Tltnl5pM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-9" target="MgfGYnm2IxD8Tltnl5pM-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-9" value="Create charter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MgfGYnm2IxD8Tltnl5pM-10" value="Assign project manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-11" target="MgfGYnm2IxD8Tltnl5pM-12">
           <mxGeometry relative="1" as="geometry" />
