@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T10:54:17.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b9BcBVV7-RUAnld2I615" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T10:56:40.512Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CvZtCrzJqL2k9VoFncDr" version="24.0.7" type="github">
   <diagram name="Page-1" id="NbFLTccC4KMndDqe9O7V">
     <mxGraphModel dx="1224" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-13" target="MgfGYnm2IxD8Tltnl5pM-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MgfGYnm2IxD8Tltnl5pM-13" value="Prepare dataset, develop logic for ML and build system infrastructure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MgfGYnm2IxD8Tltnl5pM-13" value="Prepare dataset, design ML logic and build system infrastructure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-14" target="MgfGYnm2IxD8Tltnl5pM-15">
