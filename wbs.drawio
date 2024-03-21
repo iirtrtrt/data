@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T11:12:21.256Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="yAKTGlMujhW2m7ZSjDlk" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T14:06:01.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sMCLmw2byg0DWJJUfTK8" version="24.0.7" type="github">
   <diagram name="Page-1" id="NbFLTccC4KMndDqe9O7V">
     <mxGraphModel dx="1224" dy="712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,20 +84,16 @@
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-12" value="Plan schedules, budgets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MgfGYnm2IxD8Tltnl5pM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-13" target="MgfGYnm2IxD8Tltnl5pM-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MgfGYnm2IxD8Tltnl5pM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MgfGYnm2IxD8Tltnl5pM-13" value="Prepare dataset, design ML logic and build system infrastructure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MgfGYnm2IxD8Tltnl5pM-13" value="Development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MgfGYnm2IxD8Tltnl5pM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-14" target="MgfGYnm2IxD8Tltnl5pM-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MgfGYnm2IxD8Tltnl5pM-14" value="Train model and evaluate performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-15" value="Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-16" target="MgfGYnm2IxD8Tltnl5pM-17">
           <mxGeometry relative="1" as="geometry" />
@@ -111,7 +107,7 @@
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-17" value="Cost management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MgfGYnm2IxD8Tltnl5pM-18" value="Rist management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MgfGYnm2IxD8Tltnl5pM-18" value="Risk management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MgfGYnm2IxD8Tltnl5pM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MgfGYnm2IxD8Tltnl5pM-20" target="MgfGYnm2IxD8Tltnl5pM-21">
